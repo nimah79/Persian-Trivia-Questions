@@ -1,6 +1,6 @@
 # Persian Trivia Questions
 
-This is a SQL databse, containing questions like the questions of [Quiz of Kings](https://quizofkings.com/) or [SnappQ](https://snappq.com/). The data is collected from [@hooshrobot](https://t.me/hooshrobot).
+This is a SQL databse, containing questions like the questions of [Quiz of Kings](https://quizofkings.com/) and [SnappQ](https://snappq.com/). The data is collected from [@hooshrobot](https://t.me/hooshrobot).
 
 ATM, it contains 17736 four-answer choice questions.
 
